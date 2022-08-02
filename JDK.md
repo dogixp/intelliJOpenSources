@@ -1,5 +1,5 @@
-# 어떤 JDK를 써야 할까? (JDK 버전별 소개 및 OpenJDK 벤더별 종류)
-
+# 어떤 JDK를 써야 할까?
+## JDK 버전별 소개 및 OpenJDK 벤더별 종류
 #### whichjdk.com은 다양한 JDK의 특성과 Release 기간 등을 정리해 놓은 사이트로 openJDK 선택 시 참고할만 합니다.
 
 -- 자료출처: https://whichjdk.com/
