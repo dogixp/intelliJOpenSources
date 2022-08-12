@@ -36,9 +36,12 @@
  gradle -v
 ```
 
-* GRADLE_HOME_USER 패스를 설정하면, IntelliJ에서 ``자동``으로 스캔합니다.
-  GRADLE_HOME_USER 패스를 설정하지 않아도, IntelliJ에서 ``수동``으로 설정 가능합니다.
+
+#### Spring Initializr and Assistant ( SpringBoot 자동완성 플러그인)
+
+* 2022.1.2 버전 까지는 무료 
+* 2022.2.1 부터 유료 플러그인으로 전환  ( 구독 방식)
+* 플러그인 명칭이 ``Spring Boot Helper`` 로 변경 되었습니다.
 
 
-
-
+![SpringBootHelper](https://user-images.githubusercontent.com/51108248/184289435-40d6cddb-91e6-4f36-b06e-d1575c10e504.PNG)
