@@ -50,9 +50,10 @@
 ### Liberica JDK (feat. BellSoft)
 
 * https://spring.io/quickstart
-* spring.io 사이트에서 Liberica JDK 버전 8 또는 11 사용을 권장한다는 내용
+* spring.io 사이트에서 Liberica JDK 버전 11 사용을 권장한다는 내용
 
- ![quickStart](https://user-images.githubusercontent.com/51108248/182074361-aeb36bb6-b977-489c-85e1-efd6736d7173.PNG)
+ ![quickstart_quide](https://github.com/dogixp/intelliJOpenSources/assets/51108248/77e3e7ab-cd8b-4b47-b3a1-c4dc1f215c33)
+ 
 
 
   <img src="https://img.shields.io/badge/OpenJDK-1F6B75?style=for-the-badge&logo=OpenJDK&logoColor=black">
