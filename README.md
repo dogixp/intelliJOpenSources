@@ -85,6 +85,7 @@
 * 유료버전 Ultimate 기본적으로 포함되어 있지만, 커뮤니티 버전은 따로 설치 해야 한다.
 * New 프로젝트 생성시 Spring 애플리케이션 개발 지원 자동완성 기능
 * start.spring.io 사이트에서 Spring Initializr 통해 프로젝트를 생성 하던 기능을 플러그인을 통해 지원.
+* spring helper라는 명칭으로 바뀌고, 유료 버전으로 변경되었습니다. (30일 체험판 이용 가능)
 
   ![spring](https://user-images.githubusercontent.com/51108248/181162087-f6c59678-3a64-4827-a102-bd14956cd2f5.PNG)
 
